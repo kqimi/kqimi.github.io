@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+
 
 As a newbie to Typescript, I have noticed that while it is a new concept for me, there are quite a few similarities from languages I’ve learned; such as C, C++, and Java. For example, both Java and Typescript share the same primitive types: boolean, number, and string. Similarly, C and C++ have almost the same concept as Typescript when it comes to function declaration; but they are slightly different in their syntax. One noticeable difference off the bat is the use of colons and brackets in Typescript, especially when declaring variable types. I was more accustomed to using the assignment operator for variable than colons to specify the type. After finishing the introduction to Javascript and Typescript, I realized that there are many syntax and rules I need to learn, as I often find myself confused. However, I plan to continue practing and improving my understanding of the language by doing more exercises to get more experienced with this concept.
 
