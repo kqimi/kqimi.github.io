@@ -25,3 +25,4 @@ Being athletic is something entirely new to me—I’m not the type to run a mar
 
 WODs are something I am extremely terrified of—even the monsters under my bed cannot compare. The time constraint adds so much stress that I sometimes find myself frozen, unable to remember even small things, like the purpose of a for loop. However, I am grateful that we are allowed to use resources when we get stuck, as it provides a safety net and helps me push through the challenges. I hope to improve at WODs over time, though I understand it will require a lot of practice, trial, and error. Despite the stress, I can see how this exercise will be valuable in the real world, where managing multiple projects under tight deadlines is often the norm.
 
+*ChatGPT was used to refine the grammar and the clarity of my writing, however, all ideas and contents are entirely my own.*
