@@ -11,7 +11,7 @@ labels:
   - Experiences
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/brackets.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/doggo.jpg">
 
 "Will I ever be good enough?” “Can I ever catch up with the smarter people in my class?” Questions like these flow endlessly like a river in my head, for I am not the best designer, nor am I proficient at writing, and I am still very new to coding. Despite my worries and doubts, I am determined to achieve a bachelor's degree in Computer Science. I believe that as long as I keep trying, my hard work will pay off in the end. 
 
