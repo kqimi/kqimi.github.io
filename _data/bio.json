@@ -81,10 +81,22 @@
 
   "awards": [
     {
+      "title": "Haskins Scholarship",
+      "date": "2025",
+      "awarder": "Hawaii Community Foundation",
+      "summary": " "
+    },
+    {
+      "title": "Transfer Merit Scholarship",
+      "date": "2025",
+      "awarder": "Kaʻieʻie program",
+      "summary": "Award to full-time students who maintain a 3.0 GPA or higher, "
+    },
+    {
       "title": "Bronze Award for Sales Promotion for Sango",
       "date": "2013",
       "awarder": "Pele Award",
-      "summary": ""
+      "summary": "Sango is an eco-friendly sunscreen brand that I conceptualized, designed, and brought to life, including crafting the logo, brand identity, and packaging."
     },
    
   ],
