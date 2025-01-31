@@ -14,6 +14,7 @@ labels:
 
 That said, let me walk you through how developers ask smart questions on StackOverflow.
 
+
 ## First: Why should I care about asking questions a certain way?
 
 "You attract what you put out," and that applies to your actions, attitudes, and even how you ask questions. As a developer, when you ask a question, it shouldn’t be vague or lazy. For example, asking, “Why isn’t my code working?” gives no context and suggests you haven’t put in the effort to troubleshoot the issue yourself. In most cases, questions like this will go unanswered because people don’t have the time—or patience—to dig into what you’re actually trying to solve. It’s like expecting someone to read your mind, which is not only impossible but also frustrating for everyone involved. Asking well-thought-out question can often lead to receiving helpful feedback.
@@ -21,7 +22,6 @@ That said, let me walk you through how developers ask smart questions on StackOv
 ## Case of Not-So-Smart Question
 
 As I scrolled through Stack Overflow, I noticed that many questions on the platform lacked the concept of a “smart question.” For instance:
-
 <div class="text-center p-4">
   
   <img width="500px" src="../img//badquestion.png" > 
@@ -40,10 +40,10 @@ Unsurprisingly, this post received very few answers and even accumulated -3 vote
 <div class="text-center p-4">
   
   <img width="500px" src="../img//goodquestion.png" > 
-
+[Smart Question](https://stackoverflow.com/questions/14446511/most-efficient-method-to-groupby-on-an-array-of-objects)
 </div>
 
-[Smart Question](https://stackoverflow.com/questions/14446511/most-efficient-method-to-groupby-on-an-array-of-objects)
+
 
 This is an example of a smart question on Stack Overflow, and here’s why:
 
