@@ -36,6 +36,7 @@ First, the title of the post provides no context about the error or issue. You h
 Additionally, the post includes irrelevant details like, “I’m a newB teaching myself JS using JS is sexy.” While this might seem harmless, it’s unprofessional and adds no value to the question. On a platform like Stack Overflow, where clarity and efficiency are key, such details only distract from the actual problem.
 
 Unsurprisingly, this post received very few answers and even accumulated -3 votes, signaling to professionals that it wasn’t worth their time to engage with.
+
 [Bad Question]([https://stackoverflow.com/questions/14446511/most-efficient-method-to-groupby-on-an-array-of-objects](https://stackoverflow.com/questions/38296591/i-need-help-seeing-my-error-with-this-code))
 
 <div class="text-center p-4">
