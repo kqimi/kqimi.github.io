@@ -22,7 +22,12 @@ That said, let me walk you through how developers ask smart questions on StackOv
 
 As I scrolled through Stack Overflow, I noticed that many questions on the platform lacked the concept of a “smart question.” For instance:
 
-<img width="500px" class="rounded float-start pe-4" src="../img/badquestion.png">
+<div class="text-center p-4">
+  
+  <img width="500px" src="../img//badquestion.png" > 
+
+</div>
+
 
 This is a perfect example of what not to do. Let’s break down why this post falls short.
 
@@ -32,7 +37,11 @@ Additionally, the post includes irrelevant details like, “I’m a newB teachin
 
 Unsurprisingly, this post received very few answers and even accumulated -3 votes, signaling to professionals that it wasn’t worth their time to engage with.
 
-<img width="500px" class="rounded float-start pe-4" src="../img/goodquestion.png">
+<div class="text-center p-4">
+  
+  <img width="500px" src="../img//goodquestion.png" > 
+
+</div>
 
 [Smart Question](https://stackoverflow.com/questions/14446511/most-efficient-method-to-groupby-on-an-array-of-objects)
 
