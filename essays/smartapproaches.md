@@ -10,8 +10,6 @@ labels:
   - Stack Overflow
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/brackets.jpg">
-
 "You’ve probably heard the saying, ‘There’s no such thing as a dumb question,’ maybe from a teacher or a speaker trying to encourage shy folks in the audience to speak up. And they’re not wrong—Carl Sagan once said something similar: ‘There are no stupid questions, just stupid people who ask questions.’ Now, who am I to judge those asking questions? But maybe that’s why we’re so scared to ask them in the first place. Before learning how to ask questions effectively in my ICS 314 class, I wouldn’t have known how to frame my questions in a way that makes me sound thoughtful and engaged, while also making it easier for others to understand my problem and help me out." 
 
 That said, let me walk you through how developers ask smart questions on StackOverflow.
@@ -24,6 +22,8 @@ That said, let me walk you through how developers ask smart questions on StackOv
 
 As I scrolled through Stack Overflow, I noticed that many questions on the platform lacked the concept of a “smart question.” For instance:
 
+<img width="300px" class="rounded float-start pe-4" src="../img/badquestion.png">
+
 This is a perfect example of what not to do. Let’s break down why this post falls short.
 
 First, the title of the post provides no context about the error or issue. You have to click into the post and sift through the code to even understand what’s being asked. The poster claims they did some research and found a problem, but they fail to explain what the problem was or what steps they took to try and resolve it. Instead, they dumped their entire code, leaving others to figure it out for themselves.
@@ -32,7 +32,9 @@ Additionally, the post includes irrelevant details like, “I’m a newB teachin
 
 Unsurprisingly, this post received very few answers and even accumulated -3 votes, signaling to professionals that it wasn’t worth their time to engage with.
 
-[website](https://stackoverflow.com/questions/14446511/most-efficient-method-to-groupby-on-an-array-of-objects)
+<img width="300px" class="rounded float-start pe-4" src="../img/goodquestion.png">
+
+[Smart Question](https://stackoverflow.com/questions/14446511/most-efficient-method-to-groupby-on-an-array-of-objects)
 
 This is an example of a smart question on Stack Overflow, and here’s why:
 
