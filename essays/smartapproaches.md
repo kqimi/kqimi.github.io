@@ -36,13 +36,13 @@ First, the title of the post provides no context about the error or issue. You h
 Additionally, the post includes irrelevant details like, “I’m a newB teaching myself JS using JS is sexy.” While this might seem harmless, it’s unprofessional and adds no value to the question. On a platform like Stack Overflow, where clarity and efficiency are key, such details only distract from the actual problem.
 
 Unsurprisingly, this post received very few answers and even accumulated -3 votes, signaling to professionals that it wasn’t worth their time to engage with.
+[Bad Question]([https://stackoverflow.com/questions/14446511/most-efficient-method-to-groupby-on-an-array-of-objects](https://stackoverflow.com/questions/38296591/i-need-help-seeing-my-error-with-this-code))
 
 <div class="text-center p-4">
   
   <img width="500px" src="../img//goodquestion.png" > 
-[Smart Question](https://stackoverflow.com/questions/14446511/most-efficient-method-to-groupby-on-an-array-of-objects)
-</div>
 
+</div>
 
 
 This is an example of a smart question on Stack Overflow, and here’s why:
@@ -53,6 +53,8 @@ This is an example of a smart question on Stack Overflow, and here’s why:
 - Specific Question: The post ends with a clear, focused question, making it easier for others to provide targeted help.
 
 Clicking into the link reveals just how effective this approach is: the post has 1.3 million views, 63 answers, and 944 votes. Based on this data alone, it’s clear that asking smarter questions leads to more engagement, better answers, and a higher likelihood of solving your problem.
+
+[Smart Question](https://stackoverflow.com/questions/14446511/most-efficient-method-to-groupby-on-an-array-of-objects)
 
 
 ## Our Main Takeaway
