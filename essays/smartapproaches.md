@@ -62,4 +62,5 @@ Clicking into the link reveals just how effective this approach is: the post has
 
 After seeing the difference between these two posts, I hope there’s a key takeaway here. First, don’t be lazy and expect the internet to solve your problems or read your mind. Second, while there are no stupid questions, you attract what you put out. As we’ve seen from the two examples, putting in effort and showing a genuine desire to learn will attract professionals who are willing to help you.
 
+## AI
 *ChatGPT was used to refine the grammar and the clarity of my writing, however, all ideas and contents are entirely my own.*
