@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/foodwaste-logo.png
 title: "Campus Plate Mate"
-date: 2023
+date: 2025
 published: true
 labels:
   - NextJs
@@ -18,8 +18,20 @@ summary: "This is a Next.js website created in ICS 314 to help reduce food waste
 
 </div>
 
-"Earie" is an audio streaming app design I created for my UI class. At the time, storytimes, especially about crimes and mysteries, were incredibly popular. I decided to create a design where enthusiasts could easily access and listen to new crime stories every day. Just like podcasts, why not have an app that reads aloud unsolved mysteries and solved crimes, allowing users to listen whenever they want and when they want, without having to go on Youtube.
+## Overview
+_Campus Plate Mate_ is a web application designed to reduce food waste within our college campus community. Built using Next.js, the platform allows users to post available food items or claim food shared by others through a simple and intuitive dashboard. By connecting students with excess food to those in need, the app promotes sustainability, resource sharing, and community support on campus.
 
-As part of this project, I created a flowchart to visualize how users would navigate through the app and determine the most user-friendly experience. After that, wireframes were created to help envision what information and buttons to implement into my design. With the wireframes I was able to start prototyping the app. I had to prototype mulitiple times and use Adobe Illustrator as well as XD to create my final project. 
+## My Contributions
+I acted as the deployment and database lead, ensuring our application was correctly set up on Vercel and integrated with Supabase for secure and scalable data management. I also collaborated with the team to ensure a smooth development-to-production pipeline.
 
-[View More](https://kqimi.github.io/portfolio2024/earie/earie.html).
+Coding:
+- I handled the full deployment of the app using Vercel, including managing environment variables and resolving production issues. 
+-  I styled the landing page, contributing to the visual layout design.
+- I helped design and build the profile page, including the functionality to display user-specific posts dynamically.
+
+## What I learned
+Within this project, I learned how to use Bootstrap for styling and responsive design, and how to deploy a web application using _Vercel_. I also gained experience working with _Supabase_ to store and manage backend data securely. Through building with the _Next_.js framework, I developed a better understanding of modern full-stack development. Additionally, I learned how to use _GitHub Projects_ and Issues to track our progress, manage tasks, and collaborate effectively with my team.
+
+
+[View Website](https://plate-mate-bice.vercel.app/).
+[View Github](https://github.com/campusplatemate/application).
