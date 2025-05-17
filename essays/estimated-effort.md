@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Estimated Effort for Final Project"
+title: "Planning, Predicting, Performing"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-08
 published: true
