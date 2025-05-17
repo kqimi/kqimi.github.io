@@ -26,7 +26,7 @@ I acted as the deployment and database lead, ensuring our application was correc
 
 Coding:
 - I handled the full deployment of the app using Vercel, including managing environment variables and resolving production issues. 
--  I styled the landing page, contributing to the visual layout design.
+- I styled the landing page, contributing to the visual layout design.
 - I helped design and build the profile page, including the functionality to display user-specific posts dynamically.
 
 ## What I learned
