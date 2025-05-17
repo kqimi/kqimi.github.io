@@ -33,6 +33,5 @@ Coding:
 Within this project, I learned how to use Bootstrap for styling and responsive design, and how to deploy a web application using _Vercel_. I also gained experience working with _Supabase_ to store and manage backend data securely. Through building with the _Next_.js framework, I developed a better understanding of modern full-stack development. Additionally, I learned how to use _GitHub Projects_ and Issues to track our progress, manage tasks, and collaborate effectively with my team.
 
 
-[View Website](https://plate-mate-bice.vercel.app/).
-
-[View Github](https://github.com/campusplatemate/application).
+[View Website](https://plate-mate-bice.vercel.app/)
+[View Github](https://github.com/campusplatemate/application)
